@@ -1,4 +1,4 @@
-# E-Commerce-sales-data-analysis
+SQL-Business CaseStudy-- E-Commerce-sales-data-analysis
 KAGGLE API+ PYTHON + SQL
 
 I used Kaggle API to download the dataset, for data processing and cleaning i used pandas and to load the data into sql server.
